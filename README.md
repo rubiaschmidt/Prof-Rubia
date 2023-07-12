@@ -1,1 +1,2 @@
-# Prof-Rubia
+Ola, sou professora Rubia....
+Vou te ajudar com os conteudos do Alura
